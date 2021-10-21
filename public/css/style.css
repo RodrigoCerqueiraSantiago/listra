@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+    background-color: #fff;
+}
+
+.logo{
+    width: 30%;
+    height: 100%;
+    padding: 0;
+}
+input{
+    font-size: 20px;
+}
+#valor_carro_escolhido{
+    color:red;
+   
+}
+.card{
+    border-radius:0;
+}
+
+#btn_simular{ margin-left:10%;width:90%}
